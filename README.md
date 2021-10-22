@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nanatas
+- 👋 Hi, I’m JP
 - 👀 I’m interested in programing in GO, python and C#
 - 🌱 I’m currently learning as I can
 - 💞️ I’m looking to collaborate on as many projects as possible
